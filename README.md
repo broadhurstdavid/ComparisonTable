@@ -1,9 +1,9 @@
-# ComparisonTable
+# Comparison Tables:
 
 <br />
 <br />
 
-## NO Holdout Dataset
+### NO Holdout Dataset
 
 | Datasets | Platform | No. Samples | No. Peaks |PLS-DA | PCR | PCLR | SVM-RBF | RF | ANN-LinLin | ANN-LinLog | ANN-LogLog | Comparison |
 | ----: | ---: | ---: | ---: | ---: |  ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -22,7 +22,7 @@
 <br />
 <br />
 
-## With Holdout Dataset
+### With Holdout Dataset
 
 | Datasets | Platform | No. Samples | No. Peaks |PLS-DA | PCR | PCLR | SVM-RBF | RF | ANN-LinLin | ANN-LinLog | ANN-LogLog | Comparison |
 | ----: | ---: | ---: | ---: | ---: |  ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
