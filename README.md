@@ -1,6 +1,7 @@
 # ComparisonTable
 
-----
+</br>
+</br>
 
 ## NO Holdout Dataset
 
@@ -18,8 +19,8 @@
 | [MTBLS90](https://www.ebi.ac.uk/metabolights/MTBLS90) | LC | 968 | 189 | [static](static/PLS_MTBLS90_NH.html)<br>[dynamic](jupyter/PLS_MTBLS90_NH.ipynb) | [static](static/PCR_MTBLS90_NH.html)<br>[dynamic](jupyter/PCR_MTBLS90_NH.ipynb) | [static](static/PCLR_MTBLS90_NH.html)<br>[dynamic](jupyter/PCLR_MTBLS90_NH.ipynb) | [Static](static/SVM_MTBLS90_NH.html)<br>[dynamic](jupyter/SVM_MTBLS90_NH.ipynb) |  [Static](static/RF_MTBLS90_NH.html)<br>[dynamic](jupyter/RF_MTBLS90_NH.ipynb) |  - | - | -  | [static](static/COMP_MTBLS90_NH.html)<br>[dynamic](jupyter/COMP_MTBLS90_NH.ipynb)
 | [MTBLS92](https://www.ebi.ac.uk/metabolights/MTBLS92) | LC | 447 | 240 | [static](static/PLS_MTBLS92_NH.html)<br>[dynamic](jupyter/PLS_MTBLS92_NH.ipynb) |  [static](static/PCR_MTBLS92_NH.html)<br>[dynamic](jupyter/PCR_MTBLS92_NH.ipynb) |  [static](static/PCLR_MTBLS92_NH.html)<br>[dynamic](jupyter/PCLR_MTBLS92_NH.ipynb) | [static](static/SVM_MTBLS92_NH.html)<br>[dynamic](jupyter/SVM_MTBLS92_NH.ipynb) | [static](static/RF_MTBLS92_NH.html)<br>[dynamic](jupyter/RF_MTBLS92_NH.ipynb) | - | - | -  | [static](static/COMP_MTBLS92_NH.html)<br>[dynamic](jupyter/COMP_MTBLS92_NH.ipynb)
 
-
----
+</br>
+</br>
 
 ## With Holdout Dataset
 
