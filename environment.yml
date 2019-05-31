@@ -4,11 +4,9 @@ channels:
   - conda-forge
   - cimcb
 dependencies:
-  - python=3.7.3
-  - beakerx=1.4.1
-  - numpy=1.16.3
-  - matplotlib=3.0.3
-  - pandas=0.24.2
-  - scikit-learn=0.20.3
-  - openpyxl=2.6.1
-  - cimcb=1.0.12
+  - numpy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - openpyxl
+  - cimcb
